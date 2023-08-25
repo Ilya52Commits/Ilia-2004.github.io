@@ -6,7 +6,7 @@ const addBtn = document.querySelector(".show-btn");
 const serts = document.querySelector(".certificates");
 
 const colors = ["#e74c3c", "#8e44ad", "#3498db", "#e67e22", "#2ecc71"];
-const SQUARES_NUMBER = 948;
+const SQUARES_NUMBER = 710;
 
 addSquers(board);
 addSquers(board1);
